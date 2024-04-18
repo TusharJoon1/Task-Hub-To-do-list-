@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+Server is main file while other file are react file u can submit all them in my-app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
