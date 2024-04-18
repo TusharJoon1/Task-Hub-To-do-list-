@@ -1,0 +1,52 @@
+
+#container{
+display: flex;
+align-items:center;
+justify-content:center;
+margin-top: 10%;
+  }
+
+  img{
+    height: 110%;
+    width: 30%;
+  }
+  input {
+    font-weight:600rem;
+   
+    height: 50px; /* Adjust the height as needed */
+    /* You can also adjust other properties like font-size, padding, etc. */
+  }
+
+   nav {
+    height: 90px; /* Change this value to adjust the width */
+  }
+
+  #heading{
+    font-family: 'Brush Script MT', cursive;
+  }
+
+
+  .CV {
+    border-radius: 12px;
+    background-color: #fff;
+    font-size: 30px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 10px;
+    height: 65px;
+    width:115px;
+  }
+  .aboutme{
+    border-radius: 12px;
+    background-color:#000;
+    color: #fff;
+    font: size 12px;;
+    display: inline-block;
+    padding: 5px 10px;
+  }
+ .link{
+    text-decoration: none;
+
+ }
+  
+  
